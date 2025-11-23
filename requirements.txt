@@ -1,0 +1,17 @@
+Flask
+google-generativeai
+plotly
+gunicorn
+pandas
+sqlalchemy
+psycopg2-binary
+requests
+python-dotenv
+openpyxl
+google-auth
+google-api-python-client
+Flask-Cors
+kaleido
+stripe
+PyJWT
+Werkzeug
